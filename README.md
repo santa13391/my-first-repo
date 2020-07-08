@@ -1,2 +1,2 @@
 # my-first-repo
-This is my ridiculous repo
+This is my serious repo
